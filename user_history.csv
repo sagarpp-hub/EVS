@@ -1,0 +1,16 @@
+date,transport_mode,distance_km,occupancy,electricity_kwh,solar_percentage,household_size,diet_type,extra_dairy_servings,waste_kg,compost_percentage,recycle_percentage,total_emissions_kg,transport_kg,electricity_kg,food_kg,waste_emissions_kg,ml_predicted_kg
+2026-09-29,petrol_car,28.0,1,12.5,0.0,3,nonveg_poultry,2,0.65,0.0,15.0,13.88,4.62,3.97,4.7,0.59,13.45
+2026-09-30,petrol_car,25.0,1,11.0,0.0,3,vegetarian,1,0.6,0.0,10.0,11.56,4.12,3.56,3.35,0.53,11.2
+2026-10-01,metro_rail,25.0,1,10.0,0.0,3,vegetarian,1,0.55,30.0,30.0,7.39,0.55,3.28,3.2,0.36,7.52
+2026-10-02,cycling_walking,4.0,1,8.5,0.0,3,vegetarian,1,0.5,50.0,40.0,6.01,0.0,2.87,2.95,0.19,6.18
+2026-10-03,petrol_car,22.0,2,11.0,0.0,3,nonveg_poultry,1,0.58,20.0,20.0,10.63,1.82,3.56,4.8,0.45,10.42
+2026-10-04,petrol_two_wheeler,15.0,1,9.0,0.0,3,vegetarian,2,0.5,40.0,30.0,7.85,0.65,3.01,3.9,0.29,7.95
+2026-10-05,petrol_two_wheeler,18.0,1,10.5,0.0,3,vegetarian,1,0.52,40.0,30.0,7.89,0.77,3.42,3.4,0.3,7.98
+2026-10-06,metro_rail,25.0,1,9.5,0.0,3,vegetarian,1,0.48,50.0,40.0,7.03,0.55,3.15,3.15,0.18,7.12
+2026-10-07,public_bus,22.0,1,9.0,20.0,3,vegetarian,1,0.5,50.0,40.0,6.67,0.84,2.75,2.9,0.18,6.8
+2026-10-08,metro_rail,25.0,1,8.0,20.0,3,eggetarian,1,0.45,60.0,30.0,6.92,0.55,2.5,3.7,0.17,7.05
+2026-10-09,metro_rail,25.0,1,8.0,40.0,3,vegetarian,1,0.45,60.0,40.0,6.05,0.55,2.18,3.2,0.12,6.15
+2026-10-10,petrol_car,15.0,2,12.0,40.0,3,nonveg_poultry,1,0.6,40.0,30.0,9.36,1.24,2.95,4.8,0.37,9.22
+2026-10-11,cycling_walking,5.0,1,7.5,50.0,3,vegetarian,1,0.4,70.0,30.0,4.89,0.0,1.9,2.9,0.09,4.95
+2026-10-12,metro_rail,25.0,1,8.0,50.0,3,vegetarian,1,0.42,70.0,30.0,5.74,0.55,2.02,3.08,0.09,5.8
+2026-10-12,petrol_car,23.0,1,10.0,0.0,3,vegetarian,1,0.75,0.0,10.0,11.37,3.79,3.28,3.65,0.65,11.05
